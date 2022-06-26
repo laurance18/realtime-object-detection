@@ -16,6 +16,6 @@ Realtime Object Detection is a python-based app that can detect objects in realt
 - Start up your command prompt and change directory to the repos location.
 - Type `python main.py` in the command prompt and press Enter.
 
-# Troubleshooting
+## Troubleshooting
 
 Currently there is no way for users to troubleshoot. Best thing you can do is open an issue and describe how I can re-create the bug!
